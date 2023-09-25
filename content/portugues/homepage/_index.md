@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Pavers Boqueirão"
-  content: ""
+  content: "Oferecendo serviços de qualidade, atendimento excepcional e satisfação garantida em pavimentação"
   image: "/images/banner.jpg"
   button:
     enable: true
