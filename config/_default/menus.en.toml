@@ -1,0 +1,69 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Início"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Sobre"
+url = "sobre/"
+weight = 2
+
+[[main]]
+name = "Serviços"
+url = "servicos/"
+weight = 3
+
+[[main]]
+parent = "Contato"
+name = "Contato"
+url = "contato/"
+
+# [[main]]
+# weight = 4
+# name = "Pages"
+# hasChildren = true
+
+# [[main]]
+# parent = "Pages"
+# name = "Blog"
+# url = "blog/"
+
+# [[main]]
+# parent = "Pages"
+# name = "Contact"
+# url = "contact/"
+
+# [[main]]
+# parent = "Pages"
+# name = "Authors"
+# url = "authors/"
+
+# [[main]]
+# parent = "Pages"
+# name = "Categories"
+# url = "categories/"
+
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# url = "404/"
+
+
+# footer menu
+[[footer]]
+name = "Sobre"
+url = "sobre/"
+weight = 1
+
+[[footer]]
+name = "Serviços"
+url = "servicos/"
+weight = 2
+
+[[footer]]
+name = "Política de Privacidade"
+url = "politica-de-privacidade/"
+weight = 3
