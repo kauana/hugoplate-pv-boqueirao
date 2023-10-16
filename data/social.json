@@ -1,19 +1,16 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
-    },
-    {
-      "name": "instagram",
-      "icon": "fab fa-instagram",
-      "link": "https://istagram.com/paversboqueirao"
+      "name": "phone",
+      "icon": "fa fa-phone",
+      "link": "tel:+554199093936",
+      "content": "Ligue para nós"
     },
     {
       "name": "whatsapp",
       "icon": "fab fa-whatsapp",
-      "link": "https://api.whatsapp.com/send?phone=554199093936&text=Olá, acabei de visitar o website da Pavers Boqueirão e gostaria de mais informações."
+      "link": "https://api.whatsapp.com/send?phone=554199093936&text=Olá, acabei de visitar o website da Pavers Boqueirão e gostaria de mais informações.",
+      "content": "Mande mensagem pelo WhatsApp"
     }
   ]
 }

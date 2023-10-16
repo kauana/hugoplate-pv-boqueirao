@@ -30,7 +30,7 @@ main {
   li {
     @apply inline-block;
     a {
-      @apply bg-primary dark:bg-darkmode-primary dark:text-dark flex h-9 w-9 items-center justify-center rounded text-center leading-9 text-white;
+      @apply bg-primary dark:bg-darkmode-primary dark:text-dark flex h-16 items-center justify-center rounded text-center leading-9 text-white p-6 gap-2;
       svg {
         @apply h-5 w-5;
       }
@@ -71,4 +71,15 @@ main {
   .btn {
     @apply dark:hover:text-dark no-underline hover:text-white #{!important};
   }
+}
+
+[popover] {
+  max-width: 90%;
+  max-height: 90%;
+  border: none !important;
+  border-radius: 12px;
+}
+
+[popover]::backdrop {
+  backdrop-filter: blur(3px);
 }

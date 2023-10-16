@@ -1,0 +1,21 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+
+
+  <section class="section-sm">
+    <div class="container grid grid-cols-4 gap-4">
+      {{ range $index, $image := site.Data.portfolio.main }}
+        <div>
+          <div id="dialog{{$index}}" class="flex flex-col" popover>
+            <button autofocus>Fechar</button>
+            {{ partial "image" (dict "Src" $image.path "Alt" $image.alt "Class" "flex w-full") }}
+          </div>
+          <button popovertarget="dialog{{$index}}" class="h-48 overflow-hidden">
+              {{ partial "image" (dict "Src" $image.path "Alt" $image.alt "Class" "object-cover min-w-full min-h-full") }}
+          </button>
+        </div>
+      {{ end }}
+    </div>
+  </section>
+
+{{ end }}

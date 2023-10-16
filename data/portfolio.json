@@ -1,0 +1,24 @@
+{
+    "main": [
+        {
+            "path": "/images/portfolio/image_01.jpg",
+            "alt": "Bem legal"
+        },
+        {
+            "path": "/images/portfolio/image_02.jpg",
+            "alt": "Bem legal"
+        },
+        {
+            "path": "/images/portfolio/image_03.jpg",
+            "alt": "Bem legal"
+        },
+        {
+            "path": "/images/portfolio/image_03.jpg",
+            "alt": "Bem legal"
+        },
+        {
+            "path": "/images/portfolio/image_04.jpg",
+            "alt": "Bem legal"
+        }
+    ]
+}
