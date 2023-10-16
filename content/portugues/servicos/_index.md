@@ -2,7 +2,7 @@
 title: "Sobre Nós"
 meta_title: "Sobre Nós"
 description: "Descrição da empresa"
-image: "/images/sobre.jpg"
+image: "/images/avatar.png"
 draft: false
 ---
 

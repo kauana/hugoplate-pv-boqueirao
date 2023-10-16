@@ -8,12 +8,12 @@
     {
       "name": "instagram",
       "icon": "fab fa-instagram",
-      "link": "https://istagram.com/"
+      "link": "https://istagram.com/paversboqueirao"
     },
     {
       "name": "whatsapp",
       "icon": "fab fa-whatsapp",
-      "link": "https://whatsapp.com/"
+      "link": "https://api.whatsapp.com/send?phone=554199093936&text=Olá, acabei de visitar o website da Pavers Boqueirão e gostaria de mais informações."
     }
   ]
 }

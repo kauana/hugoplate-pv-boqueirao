@@ -15,9 +15,9 @@ url = "servicos/"
 weight = 3
 
 [[main]]
-parent = "Contato"
-name = "Contato"
-url = "contato/"
+name = "Portfólio de Serviços"
+url = "portfolio/"
+weight = 4
 
 # [[main]]
 # weight = 4
@@ -51,17 +51,17 @@ url = "contato/"
 
 
 # footer menu
-[[footer]]
-name = "Sobre"
-url = "sobre/"
-weight = 1
+#[[footer]]
+#name = "Sobre"
+#url = "sobre/"
+#weight = 1
 
-[[footer]]
-name = "Serviços"
-url = "servicos/"
-weight = 2
+#[[footer]]
+#name = "Serviços"
+#url = "servicos/"
+#weight = 2
 
-[[footer]]
-name = "Política de Privacidade"
-url = "politica-de-privacidade/"
-weight = 3
+#[[footer]]
+#name = "Política de Privacidade"
+#url = "politica-de-privacidade/"
+#weight = 3
