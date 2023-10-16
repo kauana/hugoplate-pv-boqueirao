@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Conheça o nosso trabalho"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "/portfolio"
 
 # Features
 features:

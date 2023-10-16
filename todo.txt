@@ -1,0 +1,5 @@
+- Center footer buttons
+- make text + description + button (conheca nossos servicos) show up inside banner image
+- form connect to netlify forms
+- add real images to gallery
+- add service list

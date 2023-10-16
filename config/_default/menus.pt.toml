@@ -10,7 +10,7 @@ url = "sobre/"
 weight = 2
 
 [[main]]
-name = "Serviços"
+name = "Lista de Serviços"
 url = "servicos/"
 weight = 3
 

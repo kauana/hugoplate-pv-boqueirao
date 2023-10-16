@@ -1,11 +1,16 @@
 ---
-title: "Sobre Nós"
-meta_title: "Sobre Nós"
-description: "Descrição da empresa"
-image: "/images/avatar.png"
+title: "Lista de Serviços"
+meta_title: "Lista de Serviços"
+description: "Descrição da Lista de Serviços"
+image: "/images/servicos.jpg"
 draft: false
 ---
 
-Situada no bairro Boqueirão, em Curitiba, somos a sua referência quando o assunto é pavimentação. Nossa especialidade abrange desde a limpeza e renovação de calçadas até a colocação precisa de pavers, garantindo um toque de qualidade e estética em todos os nossos projetos. Com uma equipe altamente qualificada, estamos prontos para transformar e valorizar seu espaço com qualidade.
+* Trabalhamos com instalação, reparo e revitalização de todos os tipos de calçadas (pavers, paralelepípedo, pisos de concreto, pedras irregulares, etc)
+* Demolições de vários tipos, como casas, obras comerciais e residenciais
+* Limpeza e lavagem de pavers e calçadas
+* Construção de meio-fios e guias de travamento
+* Serviços de construção civil
+* E muito mais!
 
-Se você busca por excelência e um serviço que une durabilidade e beleza, você encontrou o lugar certo. Não perca tempo! Contate-nos agora mesmo para solicitar um orçamento e descubra como podemos renovar o seu ambiente.
+Se o serviço que você busca não está em nossa lista, não hesite em nos enviar uma mensagem. Estamos à disposição para atendê-lo!
