@@ -1,24 +1,84 @@
 {
     "main": [
         {
-            "path": "/images/portfolio/image_01.jpg",
-            "alt": "Bem legal"
+            "path": "/images/portfolio/Image_1.jpeg",
+            "alt": "Image 1"
         },
         {
-            "path": "/images/portfolio/image_02.jpg",
-            "alt": "Bem legal"
+            "path": "/images/portfolio/Image_2.jpeg",
+            "alt": "Image 2"
         },
         {
-            "path": "/images/portfolio/image_03.jpg",
-            "alt": "Bem legal"
+            "path": "/images/portfolio/Image_3.jpeg",
+            "alt": "Image 3"
         },
         {
-            "path": "/images/portfolio/image_03.jpg",
-            "alt": "Bem legal"
+            "path": "/images/portfolio/Image_4.jpeg",
+            "alt": "Image 4"
         },
         {
-            "path": "/images/portfolio/image_04.jpg",
-            "alt": "Bem legal"
+            "path": "/images/portfolio/Image_5.jpeg",
+            "alt": "Image 5"
+        },
+        {
+            "path": "/images/portfolio/Image_6.jpeg",
+            "alt": "Image 6"
+        },
+        {
+            "path": "/images/portfolio/Image_7.jpeg",
+            "alt": "Image 7"
+        },
+        {
+            "path": "/images/portfolio/Image_8.jpeg",
+            "alt": "Image 8"
+        },
+        {
+            "path": "/images/portfolio/Image_9.jpeg",
+            "alt": "Image 9"
+        },
+        {
+            "path": "/images/portfolio/Image_10.jpeg",
+            "alt": "Image 10"
+        },
+        {
+            "path": "/images/portfolio/Image_11.jpeg",
+            "alt": "Image 11"
+        },
+        {
+            "path": "/images/portfolio/Image_12.jpeg",
+            "alt": "Image 12"
+        },
+        {
+            "path": "/images/portfolio/Image_13.jpeg",
+            "alt": "Image 13"
+        },
+        {
+            "path": "/images/portfolio/Image_14.jpeg",
+            "alt": "Image 14"
+        },
+        {
+            "path": "/images/portfolio/Image_15.jpeg",
+            "alt": "Image 15"
+        },
+        {
+            "path": "/images/portfolio/Image_16.jpeg",
+            "alt": "Image 16"
+        },
+        {
+            "path": "/images/portfolio/Image_17.jpeg",
+            "alt": "Image 17"
+        },
+        {
+            "path": "/images/portfolio/Image_18.jpeg",
+            "alt": "Image 18"
+        },
+        {
+            "path": "/images/portfolio/Image_19.jpeg",
+            "alt": "Image 19"
+        },
+        {
+            "path": "/images/portfolio/Image_20.jpeg",
+            "alt": "Image 20"
         }
     ]
 }

@@ -2,3 +2,4 @@
 - make text + description + button (conheca nossos servicos) show up inside banner image
 - form connect to netlify forms
 - add real images to gallery
+- create custom page success message for form: https://docs.netlify.com/forms/setup/#success-messages
