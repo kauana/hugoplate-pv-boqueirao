@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Pavers Boqueirão"
-  content: "Oferecendo serviços de qualidade, atendimento excepcional e satisfação garantida em pavimentação"
+  content: "Somos especialistas em instalação, reparo e revitalização de calçadas, além de oferecer serviços abrangentes em construção civil e demolições. Nosso compromisso é com a qualidade e eficiência, entregando resultados duradouros e com acabamento de alto padrão."
   image: "/images/banner.jpg"
   button:
     enable: true
